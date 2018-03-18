@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ergebnis bei Auswahl eines Ortes:
+ z.B Berlin => Ergebnisliste: Ohne Entfernungsangabe</description>
+   <name>29_Testfall</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>85f0e395-af2c-46ad-970f-2c7e479e5605</testCaseGuid>
+</TestCaseEntity>

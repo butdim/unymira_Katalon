@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Nach Eingabe (z.B Bad Hersfeld): 
+Alle Filialen sind zugeklappt</description>
+   <name>36_Testfall</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b5b02f40-6d86-47bb-9d17-329173630e1e</testCaseGuid>
+</TestCaseEntity>

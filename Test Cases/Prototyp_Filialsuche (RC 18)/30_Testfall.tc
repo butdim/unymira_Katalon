@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>s. Widget in der Kontakt-Box
+Ergebnis bei Auswahl eines Ortes:
+ z.B Berlin => Ergebnisliste: Ohne Entfernungsangabe</description>
+   <name>30_Testfall</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>faaa3fce-0311-4212-8fd7-7b2bdd766202</testCaseGuid>
+</TestCaseEntity>

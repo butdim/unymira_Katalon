@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Fehler:
+Akk=100
+GAA_Maps=99
+
+
+Initial: Die ersten 100 GAAs der Bank sind angezeigt
+count=100</description>
+   <name>01_Testfall</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>52cfdfc9-cc2f-40a0-a6b0-3ff4841fbc48</testCaseGuid>
+</TestCaseEntity>

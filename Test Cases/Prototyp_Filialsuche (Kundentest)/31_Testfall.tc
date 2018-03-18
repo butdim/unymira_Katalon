@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;s. Widget in der Marginalspalte
+Ergebnis bei Auswahl eines Ortes:
+ z.B Berlin => Ergebnisliste:  Ohne Entfernungsangabe&quot;</description>
+   <name>31_Testfall</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38c51309-78c6-4d24-a75c-69ac580cba20</testCaseGuid>
+</TestCaseEntity>

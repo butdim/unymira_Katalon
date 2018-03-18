@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>27ErgebnisTest</name>
+   <tag></tag>
+   <elementGuidId>253244d8-9de5-448b-b3a1-5ae3148c91e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@class=&quot;accordeon has-pager&quot;]//span[@class=&quot;loc-name&quot;])[27]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[2]/div[3]/main/div/div[2]/div[2]/div[2]/div/div[27]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[2]/div[3]/main/div/div[2]/div[2]/div[2]/div/div[27]/a/span</value>
+   </webElementProperties>
+</WebElementEntity>

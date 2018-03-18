@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Filial-count=37 (Dropdown: Ergebnis bei Auswahl eines Ortes z.B. Berlin)
+Alle Filialen, bei denen im Feld &quot;City&quot; dieser Ort steht, sind angezeigt (Akk. und Filial-Icons)</description>
+   <name>14_Testfall</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1be734d0-b5a3-41ff-ab89-75aa9416ab20</testCaseGuid>
+</TestCaseEntity>

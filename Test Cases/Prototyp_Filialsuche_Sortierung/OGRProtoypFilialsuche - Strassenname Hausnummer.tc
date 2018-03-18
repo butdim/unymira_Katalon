@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Seitenaddresse: 
+http://kundentest.dev-unitb.de/vr/ogrhtmlprototyp/filialsuche.html
+
+Test ob die Ergebnisse bei Suche nach Ortsnamen (z.B. Berlin) der Filialsuchseite korrekt nach Straßenname und Hausnummer sortiert sind in dem mit einer vorgegebenen Liste verglichen wird.
+
+Zugehöriges Repository ist:
+OGRPrototypFilialsuche - Strassenname Hausnummer
+
+TODO: xpath anpassen</description>
+   <name>OGRProtoypFilialsuche - Strassenname Hausnummer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4c4b77d1-9005-40da-9f85-8cd35968342f</testCaseGuid>
+</TestCaseEntity>

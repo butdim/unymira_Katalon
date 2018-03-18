@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Es wird geprüft, ob Dropdown, Akk., Paginierung  richtig funktionieren und Ort/Straße mit Prototyp verglichen</description>
+   <name>42_Testfall</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7499f20b-0d24-4b40-b4e8-313e6b967957</testCaseGuid>
+</TestCaseEntity>

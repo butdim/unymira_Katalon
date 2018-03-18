@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;Ergebnis bei Auswahl eines Ortes:
+ z.B Berlin => Karte: Übersichtsansicht aller Filialen&quot;</description>
+   <name>25_Testfall</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0f8d9f58-5b95-4935-b7d2-ab905c8d51cb</testCaseGuid>
+</TestCaseEntity>

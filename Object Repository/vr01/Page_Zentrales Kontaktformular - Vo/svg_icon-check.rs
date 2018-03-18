@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_icon-check</name>
+   <tag></tag>
+   <elementGuidId>1a448ff0-c452-4a66-a53d-99ea1f1c7ecd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//svg[count(. | id(&quot;main-content&quot;)/div[@class=&quot;wrapper ym-cbox-right&quot;]/div[@class=&quot;ym-grid grid-50-50 ym-clearfix keep-mobile-layout&quot;]/div[@class=&quot;ym-g50 ym-gl&quot;]/div[@class=&quot;ym-gbox-left&quot;]/div[@class=&quot;module formular ym-clearfix&quot;]/form[@class=&quot;&quot;]/fieldset[1]/div[@class=&quot;row select-row error&quot;]/ul[@class=&quot;group ym-clearfix&quot;]/li[1]/svg[@class=&quot;icon-check&quot;]) = count(id(&quot;main-content&quot;)/div[@class=&quot;wrapper ym-cbox-right&quot;]/div[@class=&quot;ym-grid grid-50-50 ym-clearfix keep-mobile-layout&quot;]/div[@class=&quot;ym-g50 ym-gl&quot;]/div[@class=&quot;ym-gbox-left&quot;]/div[@class=&quot;module formular ym-clearfix&quot;]/form[@class=&quot;&quot;]/fieldset[1]/div[@class=&quot;row select-row error&quot;]/ul[@class=&quot;group ym-clearfix&quot;]/li[1]/svg[@class=&quot;icon-check&quot;])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='wccheckid']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-check</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;wrapper ym-cbox-right&quot;]/div[@class=&quot;ym-grid grid-50-50 ym-clearfix keep-mobile-layout&quot;]/div[@class=&quot;ym-g50 ym-gl&quot;]/div[@class=&quot;ym-gbox-left&quot;]/div[@class=&quot;module formular ym-clearfix&quot;]/form[@class=&quot;&quot;]/fieldset[1]/div[@class=&quot;row select-row error&quot;]/ul[@class=&quot;group ym-clearfix&quot;]/li[1]/svg[@class=&quot;icon-check&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

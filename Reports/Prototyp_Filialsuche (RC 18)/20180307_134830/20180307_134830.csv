@@ -1,0 +1,724 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Prototyp_Filialsuche (RC 18),Firefox 58.0,,2018-03-07 13:48:32,2018-03-07 14:02:00,"13m - 28,296s",ERROR
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/01_Testfall,Firefox 58.0,Initial: Alle Filial-Icon sind auf der Karte angezeigt,2018-03-07 13:48:33,2018-03-07 13:48:54,"21,921s",PASSED
+openBrowser,Firefox 58.0,,2018-03-07 13:48:33,2018-03-07 13:48:43,"9,651s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 13:48:43,2018-03-07 13:48:43,"0,016s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 13:48:43,2018-03-07 13:48:43,"0,063s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 13:48:43,2018-03-07 13:48:46,"3,314s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:48:46,2018-03-07 13:48:51,"5,021s",PASSED
+"Statement - wes = com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(filial_map), 5)",Firefox 58.0,,2018-03-07 13:48:51,2018-03-07 13:48:51,"0,141s",PASSED
+"Statement - For ([i = 0, i < wes.size(), (i++)])",Firefox 58.0,,2018-03-07 13:48:51,2018-03-07 13:48:54,"3,091s",PASSED
+closeBrowser,Firefox 58.0,,2018-03-07 13:48:54,2018-03-07 13:48:54,"0,260s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/02_Testfall,Firefox 58.0,Initial: Alle Filial-Icon sind auf der Karte angezeigt,2018-03-07 13:48:54,2018-03-07 13:49:05,"10,996s",PASSED
+openBrowser,Firefox 58.0,,2018-03-07 13:48:55,2018-03-07 13:48:58,"3,817s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 13:48:58,2018-03-07 13:48:58,"0,000s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 13:48:58,2018-03-07 13:48:58,"0,036s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 13:48:58,2018-03-07 13:49:00,"1,420s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:49:00,2018-03-07 13:49:05,"5,002s",PASSED
+"Statement - wes = com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(filial_map), 5)",Firefox 58.0,,2018-03-07 13:49:05,2018-03-07 13:49:05,"0,023s",PASSED
+"Statement - For ([i = 0, i < wes.size(), (i++)])",Firefox 58.0,,2018-03-07 13:49:05,2018-03-07 13:49:05,"0,098s",PASSED
+closeBrowser,Firefox 58.0,,2018-03-07 13:49:05,2018-03-07 13:49:05,"0,481s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/03_Testfall,Firefox 58.0,Initial: Alle Filial-Icon sind auf der Karte angezeigt,2018-03-07 13:49:06,2018-03-07 13:49:17,"11,493s",PASSED
+openBrowser,Firefox 58.0,,2018-03-07 13:49:06,2018-03-07 13:49:08,"2,690s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 13:49:08,2018-03-07 13:49:08,"0,001s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 13:49:08,2018-03-07 13:49:08,"0,043s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 13:49:08,2018-03-07 13:49:11,"3,125s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:49:11,2018-03-07 13:49:16,"5,001s",PASSED
+"Statement - wes = com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(filial_map), 5)",Firefox 58.0,,2018-03-07 13:49:16,2018-03-07 13:49:17,"0,036s",PASSED
+"Statement - For ([i = 0, i < wes.size(), (i++)])",Firefox 58.0,,2018-03-07 13:49:17,2018-03-07 13:49:17,"0,340s",PASSED
+closeBrowser,Firefox 58.0,,2018-03-07 13:49:17,2018-03-07 13:49:17,"0,152s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/04_Testfall,Firefox 58.0,Initial: Alle Filial-Icon sind auf der Karte angezeigt,2018-03-07 13:49:17,2018-03-07 13:49:27,"10,010s",PASSED
+openBrowser,Firefox 58.0,,2018-03-07 13:49:17,2018-03-07 13:49:20,"2,701s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 13:49:20,2018-03-07 13:49:20,"0,004s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 13:49:20,2018-03-07 13:49:20,"0,035s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 13:49:20,2018-03-07 13:49:22,"1,820s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:49:22,2018-03-07 13:49:27,"5,001s",PASSED
+"Statement - wes = com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(filial_map), 5)",Firefox 58.0,,2018-03-07 13:49:27,2018-03-07 13:49:27,"0,014s",PASSED
+"Statement - For ([i = 0, i < wes.size(), (i++)])",Firefox 58.0,,2018-03-07 13:49:27,2018-03-07 13:49:27,"0,182s",PASSED
+closeBrowser,Firefox 58.0,,2018-03-07 13:49:27,2018-03-07 13:49:27,"0,161s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/05_Testfall,Firefox 58.0,initial: Alle Filial-Akk. sind zugeklappt,2018-03-07 13:49:27,2018-03-07 13:49:37,"9,840s",PASSED
+openBrowser,Firefox 58.0,,2018-03-07 13:49:27,2018-03-07 13:49:30,"2,705s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 13:49:30,2018-03-07 13:49:30,"0,085s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 13:49:30,2018-03-07 13:49:30,"0,004s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 13:49:30,2018-03-07 13:49:31,"1,580s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:49:31,2018-03-07 13:49:36,"5,001s",PASSED
+verifyElementNotPresent,Firefox 58.0,,2018-03-07 13:49:36,2018-03-07 13:49:37,"0,121s",PASSED
+closeBrowser,Firefox 58.0,,2018-03-07 13:49:37,2018-03-07 13:49:37,"0,273s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/06_Testfall,Firefox 58.0,initial: Alle Filial-Akk. sind zugeklappt,2018-03-07 13:49:37,2018-03-07 13:49:47,"9,712s",PASSED
+openBrowser,Firefox 58.0,,2018-03-07 13:49:37,2018-03-07 13:49:40,"3,225s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 13:49:40,2018-03-07 13:49:40,"0,023s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 13:49:40,2018-03-07 13:49:40,"0,011s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 13:49:40,2018-03-07 13:49:41,"1,037s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:49:41,2018-03-07 13:49:46,"5,001s",PASSED
+verifyElementNotPresent,Firefox 58.0,,2018-03-07 13:49:46,2018-03-07 13:49:46,"0,042s",PASSED
+closeBrowser,Firefox 58.0,,2018-03-07 13:49:46,2018-03-07 13:49:47,"0,296s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/07_Testfall,Firefox 58.0,initial: Alle Filial-Akk. sind zugeklappt,2018-03-07 13:49:47,2018-03-07 13:49:57,"10,297s",PASSED
+openBrowser,Firefox 58.0,,2018-03-07 13:49:47,2018-03-07 13:49:50,"2,980s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 13:49:50,2018-03-07 13:49:50,"0,042s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 13:49:50,2018-03-07 13:49:50,"0,020s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 13:49:50,2018-03-07 13:49:52,"1,901s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:49:52,2018-03-07 13:49:57,"5,000s",PASSED
+verifyElementNotPresent,Firefox 58.0,,2018-03-07 13:49:57,2018-03-07 13:49:57,"0,021s",PASSED
+closeBrowser,Firefox 58.0,,2018-03-07 13:49:57,2018-03-07 13:49:57,"0,278s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/08_Testfall,Firefox 58.0,initial: Alle Filial-Akk. sind zugeklappt,2018-03-07 13:49:57,2018-03-07 13:50:07,"9,615s",PASSED
+openBrowser,Firefox 58.0,,2018-03-07 13:49:57,2018-03-07 13:50:00,"3,143s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 13:50:00,2018-03-07 13:50:00,"0,035s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 13:50:00,2018-03-07 13:50:00,"0,005s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 13:50:00,2018-03-07 13:50:01,"1,075s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:50:01,2018-03-07 13:50:06,"5,000s",PASSED
+verifyElementNotPresent,Firefox 58.0,,2018-03-07 13:50:06,2018-03-07 13:50:06,"0,017s",PASSED
+closeBrowser,Firefox 58.0,,2018-03-07 13:50:06,2018-03-07 13:50:07,"0,276s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/09_Testfall,Firefox 58.0,"\u00DCberpr\u00FCfen, ob Entfernung in km nicht angezeigt wind ",2018-03-07 13:50:07,2018-03-07 13:50:17,"10,248s",PASSED
+openBrowser,Firefox 58.0,,2018-03-07 13:50:07,2018-03-07 13:50:10,"3,818s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 13:50:10,2018-03-07 13:50:10,"0,039s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 13:50:10,2018-03-07 13:50:10,"0,004s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 13:50:10,2018-03-07 13:50:11,"0,986s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:50:11,2018-03-07 13:50:16,"5,001s",PASSED
+verifyElementNotPresent,Firefox 58.0,,2018-03-07 13:50:16,2018-03-07 13:50:16,"0,014s",PASSED
+closeBrowser,Firefox 58.0,,2018-03-07 13:50:16,2018-03-07 13:50:17,"0,292s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/10_Testfall,Firefox 58.0,"\u00DCberpr\u00FCfen, ob Entfernung in km nicht angezeigt wind ",2018-03-07 13:50:17,2018-03-07 13:50:27,"10,280s",PASSED
+openBrowser,Firefox 58.0,,2018-03-07 13:50:17,2018-03-07 13:50:21,"3,821s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 13:50:21,2018-03-07 13:50:21,"0,039s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 13:50:21,2018-03-07 13:50:21,"0,005s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 13:50:21,2018-03-07 13:50:22,"1,022s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:50:22,2018-03-07 13:50:27,"5,001s",PASSED
+verifyElementNotPresent,Firefox 58.0,,2018-03-07 13:50:27,2018-03-07 13:50:27,"0,016s",PASSED
+closeBrowser,Firefox 58.0,,2018-03-07 13:50:27,2018-03-07 13:50:27,"0,282s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/11_Testfall,Firefox 58.0,"\u00DCberpr\u00FCfen, ob Entfernung in km nicht angezeigt wind ",2018-03-07 13:50:27,2018-03-07 13:50:37,"10,344s",PASSED
+openBrowser,Firefox 58.0,,2018-03-07 13:50:27,2018-03-07 13:50:30,"2,752s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 13:50:30,2018-03-07 13:50:30,"0,031s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 13:50:30,2018-03-07 13:50:30,"0,004s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 13:50:30,2018-03-07 13:50:32,"2,297s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:50:32,2018-03-07 13:50:37,"5,000s",PASSED
+verifyElementNotPresent,Firefox 58.0,,2018-03-07 13:50:37,2018-03-07 13:50:37,"0,034s",PASSED
+closeBrowser,Firefox 58.0,,2018-03-07 13:50:37,2018-03-07 13:50:37,"0,163s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/12_Testfall,Firefox 58.0,"\u00DCberpr\u00FCfen, ob Entfernung in km nicht angezeigt wind ",2018-03-07 13:50:37,2018-03-07 13:50:47,"9,880s",PASSED
+openBrowser,Firefox 58.0,,2018-03-07 13:50:37,2018-03-07 13:50:41,"3,157s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 13:50:41,2018-03-07 13:50:41,"0,029s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 13:50:41,2018-03-07 13:50:41,"0,003s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 13:50:41,2018-03-07 13:50:42,"1,365s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:50:42,2018-03-07 13:50:47,"5,001s",PASSED
+verifyElementNotPresent,Firefox 58.0,,2018-03-07 13:50:47,2018-03-07 13:50:47,"0,013s",PASSED
+closeBrowser,Firefox 58.0,,2018-03-07 13:50:47,2018-03-07 13:50:47,"0,250s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/13_Testfall,Firefox 58.0,Filial-count=54\nInitial sind alle Filialen einer Bank angezeigt\n(Akk. und Filial-Icons),2018-03-07 13:50:47,2018-03-07 13:50:57,"9,707s",PASSED
+openBrowser,Firefox 58.0,,2018-03-07 13:50:47,2018-03-07 13:50:51,"3,137s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 13:50:51,2018-03-07 13:50:51,"0,006s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 13:50:51,2018-03-07 13:50:51,"0,048s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 13:50:51,2018-03-07 13:50:52,"0,957s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:50:52,2018-03-07 13:50:57,"5,001s",PASSED
+"Statement - wes1 = com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(filial_map), 5)",Firefox 58.0,,2018-03-07 13:50:57,2018-03-07 13:50:57,"0,033s",PASSED
+"Statement - wes2 = com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(loc_steet_filialsuche), 5)",Firefox 58.0,,2018-03-07 13:50:57,2018-03-07 13:50:57,"0,023s",PASSED
+Statement - filial_maps_count = wes1.size(),Firefox 58.0,,2018-03-07 13:50:57,2018-03-07 13:50:57,"0,000s",PASSED
+Statement - filial_accordeon_count = wes2.size(),Firefox 58.0,,2018-03-07 13:50:57,2018-03-07 13:50:57,"0,000s",PASSED
+Statement - filial_count = 61,Firefox 58.0,,2018-03-07 13:50:57,2018-03-07 13:50:57,"0,000s",PASSED
+Statement - If (filial_maps_count != filial_count),Firefox 58.0,,2018-03-07 13:50:57,2018-03-07 13:50:57,"0,000s",PASSED
+closeBrowser,Firefox 58.0,,2018-03-07 13:50:57,2018-03-07 13:50:57,"0,388s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/14_Testfall,Firefox 58.0,"Filial-count=37 (Dropdown: Ergebnis bei Auswahl eines Ortes z.B. Berlin)\nAlle Filialen, bei denen im Feld \""City\"" dieser Ort steht, sind angezeigt (Akk. und Filial-Icons)\n\n\n\n\n\n",2018-03-07 13:50:57,2018-03-07 13:51:21,"24,351s",PASSED
+openBrowser,Firefox 58.0,,2018-03-07 13:50:57,2018-03-07 13:51:00,"2,682s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 13:51:00,2018-03-07 13:51:00,"0,001s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 13:51:00,2018-03-07 13:51:00,"0,025s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 13:51:00,2018-03-07 13:51:01,"1,493s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:51:01,2018-03-07 13:51:06,"5,000s",PASSED
+click,Firefox 58.0,,2018-03-07 13:51:06,2018-03-07 13:51:07,"0,286s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:51:07,2018-03-07 13:51:09,"2,000s",PASSED
+mouseOver,Firefox 58.0,,2018-03-07 13:51:09,2018-03-07 13:51:09,"0,238s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:51:09,2018-03-07 13:51:11,"2,001s",PASSED
+click,Firefox 58.0,,2018-03-07 13:51:11,2018-03-07 13:51:11,"0,241s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:51:11,2018-03-07 13:51:16,"5,001s",PASSED
+"Statement - wes1 = com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(filial_map), 5)",Firefox 58.0,,2018-03-07 13:51:16,2018-03-07 13:51:16,"0,024s",PASSED
+"Statement - wes2 = com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(loc_steet_filialsuche), 5)",Firefox 58.0,,2018-03-07 13:51:16,2018-03-07 13:51:16,"0,021s",PASSED
+"Statement - wes3 = com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(filialsuche_loc_city), 5)",Firefox 58.0,,2018-03-07 13:51:16,2018-03-07 13:51:21,"5,048s",PASSED
+Statement - filial_maps_count = wes1.size(),Firefox 58.0,,2018-03-07 13:51:21,2018-03-07 13:51:21,"0,000s",PASSED
+Statement - filial_accordeon_count = wes2.size(),Firefox 58.0,,2018-03-07 13:51:21,2018-03-07 13:51:21,"0,000s",PASSED
+Statement - filial_count = 37,Firefox 58.0,,2018-03-07 13:51:21,2018-03-07 13:51:21,"0,000s",PASSED
+"Statement - city_name = ""Berlin""",Firefox 58.0,,2018-03-07 13:51:21,2018-03-07 13:51:21,"0,000s",PASSED
+Statement - If (filial_maps_count != filial_count),Firefox 58.0,,2018-03-07 13:51:21,2018-03-07 13:51:21,"0,000s",PASSED
+"Statement - For ([i = 0, i < wes3.size(), (i++)])",Firefox 58.0,,2018-03-07 13:51:21,2018-03-07 13:51:21,"0,000s",PASSED
+closeBrowser,Firefox 58.0,,2018-03-07 13:51:21,2018-03-07 13:51:21,"0,180s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/15_Testfall,Firefox 58.0,"Sortierung nach entfernung beim Eingabe \""Berlin\""",2018-03-07 13:51:21,2018-03-07 13:51:35,"13,543s",ERROR
+openBrowser,Firefox 58.0,,2018-03-07 13:51:21,2018-03-07 13:51:24,"2,963s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 13:51:24,2018-03-07 13:51:24,"0,028s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 13:51:24,2018-03-07 13:51:24,"0,003s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 13:51:24,2018-03-07 13:51:25,"1,032s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:51:25,2018-03-07 13:51:30,"5,000s",PASSED
+setText,Firefox 58.0,,2018-03-07 13:51:30,2018-03-07 13:51:31,"0,101s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:51:31,2018-03-07 13:51:33,"2,001s",PASSED
+submit,Firefox 58.0,,2018-03-07 13:51:33,2018-03-07 13:51:33,"0,051s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:51:33,2018-03-07 13:51:35,"2,000s",PASSED
+"Statement - wes = com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Filialsuche_loc_distance), 5)",Firefox 58.0,,2018-03-07 13:51:35,2018-03-07 13:51:35,"0,022s",PASSED
+"Statement - For ([i = 1, i < wes.size(), (i++)])",Firefox 58.0,,2018-03-07 13:51:35,2018-03-07 13:51:35,"0,244s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/16_Testfall,Firefox 58.0,"Es wird gepr\u00FCft, ob Entfernung in km angezeigt wird",2018-03-07 13:51:35,2018-03-07 13:51:49,"14,286s",PASSED
+openBrowser,Firefox 58.0,,2018-03-07 13:51:35,2018-03-07 13:51:38,"2,969s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 13:51:38,2018-03-07 13:51:38,"0,029s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 13:51:38,2018-03-07 13:51:38,"0,012s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 13:51:38,2018-03-07 13:51:40,"1,801s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:51:40,2018-03-07 13:51:45,"5,000s",PASSED
+setText,Firefox 58.0,,2018-03-07 13:51:45,2018-03-07 13:51:45,"0,042s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:51:45,2018-03-07 13:51:47,"2,000s",PASSED
+submit,Firefox 58.0,,2018-03-07 13:51:47,2018-03-07 13:51:47,"0,022s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:51:47,2018-03-07 13:51:49,"2,000s",PASSED
+verifyElementVisible,Firefox 58.0,,2018-03-07 13:51:49,2018-03-07 13:51:49,"0,063s",PASSED
+closeBrowser,Firefox 58.0,,2018-03-07 13:51:49,2018-03-07 13:51:49,"0,278s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/17_Testfall,Firefox 58.0,Akkordeons und Paginierung beim Klick funktionieren richtig. Es werden noch Stra\u00DFen und Hausnummern mit Prototyp verglichen.,2018-03-07 13:51:49,2018-03-07 13:54:50,"3m - 0,334s",PASSED
+openBrowser,Firefox 58.0,,2018-03-07 13:51:49,2018-03-07 13:51:52,"3,043s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 13:51:52,2018-03-07 13:51:52,"0,006s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 13:51:52,2018-03-07 13:51:52,"0,036s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 13:51:52,2018-03-07 13:51:53,"0,975s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:51:53,2018-03-07 13:51:55,"2,000s",PASSED
+waitForPageLoad,Firefox 58.0,,2018-03-07 13:51:55,2018-03-07 13:51:55,"0,041s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:51:55,2018-03-07 13:51:57,"2,000s",PASSED
+click,Firefox 58.0,,2018-03-07 13:51:57,2018-03-07 13:51:58,"0,287s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:51:58,2018-03-07 13:52:00,"2,001s",PASSED
+mouseOver,Firefox 58.0,,2018-03-07 13:52:00,2018-03-07 13:52:00,"0,162s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:52:00,2018-03-07 13:52:02,"2,000s",PASSED
+click,Firefox 58.0,,2018-03-07 13:52:02,2018-03-07 13:52:02,"0,256s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:52:02,2018-03-07 13:52:07,"5,001s",PASSED
+click,Firefox 58.0,,2018-03-07 13:52:07,2018-03-07 13:52:07,"0,303s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:52:07,2018-03-07 13:52:09,"2,002s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:52:09,2018-03-07 13:52:12,"2,442s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:52:12,2018-03-07 13:52:15,"2,818s",PASSED
+click,Firefox 58.0,,2018-03-07 13:52:15,2018-03-07 13:52:15,"0,277s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:52:15,2018-03-07 13:52:17,"2,002s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:52:17,2018-03-07 13:52:19,"2,367s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:52:19,2018-03-07 13:52:22,"2,337s",PASSED
+click,Firefox 58.0,,2018-03-07 13:52:22,2018-03-07 13:52:22,"0,289s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:52:22,2018-03-07 13:52:24,"2,000s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:52:24,2018-03-07 13:52:26,"2,438s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:52:26,2018-03-07 13:52:29,"2,343s",PASSED
+click,Firefox 58.0,,2018-03-07 13:52:29,2018-03-07 13:52:29,"0,275s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:52:29,2018-03-07 13:52:31,"2,001s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:52:31,2018-03-07 13:52:33,"2,410s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:52:33,2018-03-07 13:52:36,"2,622s",PASSED
+click,Firefox 58.0,,2018-03-07 13:52:36,2018-03-07 13:52:36,"0,276s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:52:36,2018-03-07 13:52:38,"2,001s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:52:38,2018-03-07 13:52:41,"2,411s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:52:41,2018-03-07 13:52:43,"2,392s",PASSED
+scrollToElement,Firefox 58.0,,2018-03-07 13:52:43,2018-03-07 13:52:43,"0,032s",PASSED
+click,Firefox 58.0,,2018-03-07 13:52:43,2018-03-07 13:52:44,"0,268s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:52:44,2018-03-07 13:52:46,"2,001s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:52:46,2018-03-07 13:52:48,"2,327s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:52:48,2018-03-07 13:52:50,"2,301s",PASSED
+click,Firefox 58.0,,2018-03-07 13:52:50,2018-03-07 13:52:50,"0,270s",PASSED
+click,Firefox 58.0,,2018-03-07 13:52:50,2018-03-07 13:52:51,"0,269s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:52:51,2018-03-07 13:52:53,"2,002s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:52:53,2018-03-07 13:52:55,"2,323s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:52:55,2018-03-07 13:52:57,"2,295s",PASSED
+click,Firefox 58.0,,2018-03-07 13:52:57,2018-03-07 13:52:58,"0,285s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:52:58,2018-03-07 13:53:00,"2,001s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:53:00,2018-03-07 13:53:02,"2,417s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:53:02,2018-03-07 13:53:05,"2,639s",PASSED
+click,Firefox 58.0,,2018-03-07 13:53:05,2018-03-07 13:53:05,"0,269s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:53:05,2018-03-07 13:53:07,"2,001s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:53:07,2018-03-07 13:53:09,"2,335s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:53:09,2018-03-07 13:53:12,"2,307s",PASSED
+click,Firefox 58.0,,2018-03-07 13:53:12,2018-03-07 13:53:12,"0,277s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:53:12,2018-03-07 13:53:14,"2,000s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:53:14,2018-03-07 13:53:16,"2,310s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:53:16,2018-03-07 13:53:18,"2,281s",PASSED
+click,Firefox 58.0,,2018-03-07 13:53:18,2018-03-07 13:53:19,"0,277s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:53:19,2018-03-07 13:53:21,"2,000s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:53:21,2018-03-07 13:53:23,"2,404s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:53:23,2018-03-07 13:53:26,"2,540s",PASSED
+click,Firefox 58.0,,2018-03-07 13:53:26,2018-03-07 13:53:26,"0,299s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:53:26,2018-03-07 13:53:28,"2,001s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:53:28,2018-03-07 13:53:30,"2,330s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:53:30,2018-03-07 13:53:33,"2,284s",PASSED
+click,Firefox 58.0,,2018-03-07 13:53:33,2018-03-07 13:53:33,"0,262s",PASSED
+click,Firefox 58.0,,2018-03-07 13:53:33,2018-03-07 13:53:33,"0,256s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:53:33,2018-03-07 13:53:35,"2,001s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:53:35,2018-03-07 13:53:37,"2,392s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:53:37,2018-03-07 13:53:40,"2,307s",PASSED
+click,Firefox 58.0,,2018-03-07 13:53:40,2018-03-07 13:53:40,"0,256s",PASSED
+click,Firefox 58.0,,2018-03-07 13:53:40,2018-03-07 13:53:41,"0,494s",PASSED
+click,Firefox 58.0,,2018-03-07 13:53:41,2018-03-07 13:53:41,"0,292s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:53:41,2018-03-07 13:53:43,"2,001s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:53:43,2018-03-07 13:53:45,"2,408s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:53:45,2018-03-07 13:53:48,"2,648s",PASSED
+click,Firefox 58.0,,2018-03-07 13:53:48,2018-03-07 13:53:48,"0,499s",PASSED
+click,Firefox 58.0,,2018-03-07 13:53:48,2018-03-07 13:53:49,"0,280s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:53:49,2018-03-07 13:53:51,"2,000s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:53:51,2018-03-07 13:53:53,"2,322s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:53:53,2018-03-07 13:53:55,"2,323s",PASSED
+click,Firefox 58.0,,2018-03-07 13:53:55,2018-03-07 13:53:56,"0,266s",PASSED
+click,Firefox 58.0,,2018-03-07 13:53:56,2018-03-07 13:53:56,"0,260s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:53:56,2018-03-07 13:53:58,"2,001s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:53:58,2018-03-07 13:54:00,"2,344s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:54:00,2018-03-07 13:54:03,"2,364s",PASSED
+click,Firefox 58.0,,2018-03-07 13:54:03,2018-03-07 13:54:03,"0,264s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:54:03,2018-03-07 13:54:05,"2,000s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:54:05,2018-03-07 13:54:07,"2,406s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:54:07,2018-03-07 13:54:10,"2,706s",PASSED
+click,Firefox 58.0,,2018-03-07 13:54:10,2018-03-07 13:54:10,"0,295s",PASSED
+click,Firefox 58.0,,2018-03-07 13:54:10,2018-03-07 13:54:11,"0,415s",PASSED
+click,Firefox 58.0,,2018-03-07 13:54:11,2018-03-07 13:54:11,"0,290s",PASSED
+click,Firefox 58.0,,2018-03-07 13:54:11,2018-03-07 13:54:11,"0,291s",PASSED
+click,Firefox 58.0,,2018-03-07 13:54:11,2018-03-07 13:54:11,"0,252s",PASSED
+click,Firefox 58.0,,2018-03-07 13:54:11,2018-03-07 13:54:12,"0,249s",PASSED
+click,Firefox 58.0,,2018-03-07 13:54:12,2018-03-07 13:54:12,"0,282s",PASSED
+click,Firefox 58.0,,2018-03-07 13:54:12,2018-03-07 13:54:12,"0,250s",PASSED
+click,Firefox 58.0,,2018-03-07 13:54:12,2018-03-07 13:54:12,"0,251s",PASSED
+click,Firefox 58.0,,2018-03-07 13:54:12,2018-03-07 13:54:13,"0,258s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:54:13,2018-03-07 13:54:15,"2,001s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:54:15,2018-03-07 13:54:17,"2,352s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:54:17,2018-03-07 13:54:19,"2,302s",PASSED
+click,Firefox 58.0,,2018-03-07 13:54:19,2018-03-07 13:54:20,"0,275s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:54:20,2018-03-07 13:54:22,"2,000s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:54:22,2018-03-07 13:54:24,"2,343s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:54:24,2018-03-07 13:54:26,"2,338s",PASSED
+click,Firefox 58.0,,2018-03-07 13:54:26,2018-03-07 13:54:27,"0,267s",PASSED
+click,Firefox 58.0,,2018-03-07 13:54:27,2018-03-07 13:54:27,"0,255s",PASSED
+click,Firefox 58.0,,2018-03-07 13:54:27,2018-03-07 13:54:27,"0,267s",PASSED
+click,Firefox 58.0,,2018-03-07 13:54:27,2018-03-07 13:54:27,"0,250s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:54:27,2018-03-07 13:54:29,"2,000s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:54:29,2018-03-07 13:54:32,"2,367s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:54:32,2018-03-07 13:54:34,"2,715s",PASSED
+click,Firefox 58.0,,2018-03-07 13:54:34,2018-03-07 13:54:35,"0,392s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:54:35,2018-03-07 13:54:37,"2,000s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:54:37,2018-03-07 13:54:39,"2,388s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:54:39,2018-03-07 13:54:42,"2,325s",PASSED
+click,Firefox 58.0,,2018-03-07 13:54:42,2018-03-07 13:54:42,"0,278s",PASSED
+click,Firefox 58.0,,2018-03-07 13:54:42,2018-03-07 13:54:42,"0,268s",PASSED
+click,Firefox 58.0,,2018-03-07 13:54:42,2018-03-07 13:54:42,"0,271s",PASSED
+click,Firefox 58.0,,2018-03-07 13:54:42,2018-03-07 13:54:43,"0,282s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:54:43,2018-03-07 13:54:45,"2,000s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:54:45,2018-03-07 13:54:47,"2,352s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:54:47,2018-03-07 13:54:49,"2,328s",PASSED
+closeBrowser,Firefox 58.0,,2018-03-07 13:54:49,2018-03-07 13:54:50,"0,249s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/18_Testfall,Firefox 58.0,"Es werden Funktionalit\u00E4ten gepr\u00FCft:\nDropdown, Akk. , Anfahrt/Zur\u00FCck-Buttons, Eingabefelder (street/city) etc.",2018-03-07 13:54:50,2018-03-07 13:55:15,"25,323s",PASSED
+openBrowser,Firefox 58.0,,2018-03-07 13:54:50,2018-03-07 13:54:53,"2,981s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 13:54:53,2018-03-07 13:54:53,"0,010s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 13:54:53,2018-03-07 13:54:53,"0,034s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 13:54:53,2018-03-07 13:54:55,"2,635s",PASSED
+waitForPageLoad,Firefox 58.0,,2018-03-07 13:54:55,2018-03-07 13:54:55,"0,008s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:54:55,2018-03-07 13:54:59,"4,000s",PASSED
+click,Firefox 58.0,,2018-03-07 13:54:59,2018-03-07 13:55:00,"0,272s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:55:00,2018-03-07 13:55:02,"2,000s",PASSED
+mouseOver,Firefox 58.0,,2018-03-07 13:55:02,2018-03-07 13:55:02,"0,151s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:55:02,2018-03-07 13:55:04,"2,001s",PASSED
+click,Firefox 58.0,,2018-03-07 13:55:04,2018-03-07 13:55:04,"0,267s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:55:04,2018-03-07 13:55:06,"2,000s",PASSED
+click,Firefox 58.0,,2018-03-07 13:55:06,2018-03-07 13:55:06,"0,284s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:55:06,2018-03-07 13:55:08,"2,001s",PASSED
+click,Firefox 58.0,,2018-03-07 13:55:08,2018-03-07 13:55:08,"0,064s",PASSED
+setText,Firefox 58.0,,2018-03-07 13:55:08,2018-03-07 13:55:08,"0,043s",PASSED
+setText,Firefox 58.0,,2018-03-07 13:55:08,2018-03-07 13:55:08,"0,029s",PASSED
+setText,Firefox 58.0,,2018-03-07 13:55:08,2018-03-07 13:55:08,"0,040s",PASSED
+click,Firefox 58.0,,2018-03-07 13:55:08,2018-03-07 13:55:09,"0,253s",PASSED
+click,Firefox 58.0,,2018-03-07 13:55:09,2018-03-07 13:55:09,"0,268s",PASSED
+click,Firefox 58.0,,2018-03-07 13:55:09,2018-03-07 13:55:09,"0,041s",PASSED
+click,Firefox 58.0,,2018-03-07 13:55:09,2018-03-07 13:55:09,"0,258s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:55:09,2018-03-07 13:55:11,"2,001s",PASSED
+click,Firefox 58.0,,2018-03-07 13:55:11,2018-03-07 13:55:12,"0,230s",PASSED
+mouseOver,Firefox 58.0,,2018-03-07 13:55:12,2018-03-07 13:55:12,"0,170s",PASSED
+click,Firefox 58.0,,2018-03-07 13:55:12,2018-03-07 13:55:12,"0,227s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:55:12,2018-03-07 13:55:14,"2,001s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 13:55:14,2018-03-07 13:55:15,"0,808s",PASSED
+closeBrowser,Firefox 58.0,,2018-03-07 13:55:15,2018-03-07 13:55:15,"0,176s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/19_Testfall,Firefox 58.0,Paginierung soll beim Klick richtig funktionieren,2018-03-07 13:55:15,2018-03-07 13:55:20,"5,398s",FAILED
+openBrowser,Firefox 58.0,,2018-03-07 13:55:15,2018-03-07 13:55:18,"2,825s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 13:55:18,2018-03-07 13:55:18,"0,048s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 13:55:18,2018-03-07 13:55:19,"1,167s",PASSED
+click,Firefox 58.0,,2018-03-07 13:55:19,2018-03-07 13:55:20,"1,274s",FAILED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/20_Testfall,Firefox 58.0,"Es wird gepr\u00FCft, ob Entfernung in km angezeigt wird",2018-03-07 13:55:20,2018-03-07 13:55:34,"13,757s",PASSED
+openBrowser,Firefox 58.0,,2018-03-07 13:55:20,2018-03-07 13:55:23,"2,859s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 13:55:23,2018-03-07 13:55:23,"0,175s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 13:55:23,2018-03-07 13:55:23,"0,005s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 13:55:23,2018-03-07 13:55:25,"1,245s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:55:25,2018-03-07 13:55:30,"5,000s",PASSED
+setText,Firefox 58.0,,2018-03-07 13:55:30,2018-03-07 13:55:30,"0,077s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:55:30,2018-03-07 13:55:32,"2,000s",PASSED
+submit,Firefox 58.0,,2018-03-07 13:55:32,2018-03-07 13:55:32,"0,021s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:55:32,2018-03-07 13:55:34,"2,000s",PASSED
+verifyElementVisible,Firefox 58.0,,2018-03-07 13:55:34,2018-03-07 13:55:34,"0,026s",PASSED
+closeBrowser,Firefox 58.0,,2018-03-07 13:55:34,2018-03-07 13:55:34,"0,253s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/21_Testfall,Firefox 58.0,Ergebnis bei Auswahl eines Ortes:\n z.B Berlin => Ergebnisliste: Alle Filialen sind zugeklappt,2018-03-07 13:55:34,2018-03-07 13:55:51,"16,567s",PASSED
+openBrowser,Firefox 58.0,,2018-03-07 13:55:34,2018-03-07 13:55:37,"3,018s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 13:55:37,2018-03-07 13:55:37,"0,037s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 13:55:37,2018-03-07 13:55:37,"0,003s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 13:55:37,2018-03-07 13:55:39,"1,556s",PASSED
+waitForPageLoad,Firefox 58.0,,2018-03-07 13:55:39,2018-03-07 13:55:39,"0,021s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:55:39,2018-03-07 13:55:41,"2,000s",PASSED
+click,Firefox 58.0,,2018-03-07 13:55:41,2018-03-07 13:55:41,"0,249s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:55:41,2018-03-07 13:55:43,"2,000s",PASSED
+mouseOver,Firefox 58.0,,2018-03-07 13:55:43,2018-03-07 13:55:43,"0,133s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:55:43,2018-03-07 13:55:45,"2,001s",PASSED
+click,Firefox 58.0,,2018-03-07 13:55:45,2018-03-07 13:55:45,"0,239s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:55:45,2018-03-07 13:55:50,"5,001s",PASSED
+verifyElementNotPresent,Firefox 58.0,,2018-03-07 13:55:50,2018-03-07 13:55:50,"0,011s",PASSED
+closeBrowser,Firefox 58.0,,2018-03-07 13:55:50,2018-03-07 13:55:51,"0,239s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/22_Testfall,Firefox 58.0,"\""s. Widget in der Kontakt-Box\nErgebnis bei Auswahl eines Ortes:\n z.B Berlin => Ergebnisliste: Alle Filialen sind zugeklappt\""",2018-03-07 13:55:51,2018-03-07 13:56:06,"15,492s",PASSED
+openBrowser,Firefox 58.0,,2018-03-07 13:55:51,2018-03-07 13:55:53,"2,750s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 13:55:53,2018-03-07 13:55:53,"0,030s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 13:55:53,2018-03-07 13:55:54,"0,003s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 13:55:54,2018-03-07 13:55:54,"0,664s",PASSED
+waitForPageLoad,Firefox 58.0,,2018-03-07 13:55:54,2018-03-07 13:55:54,"0,006s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:55:54,2018-03-07 13:55:56,"2,001s",PASSED
+click,Firefox 58.0,,2018-03-07 13:55:56,2018-03-07 13:55:56,"0,304s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:55:56,2018-03-07 13:55:58,"2,001s",PASSED
+mouseOver,Firefox 58.0,,2018-03-07 13:55:58,2018-03-07 13:55:59,"0,160s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:55:59,2018-03-07 13:56:01,"2,000s",PASSED
+click,Firefox 58.0,,2018-03-07 13:56:01,2018-03-07 13:56:01,"0,253s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:56:01,2018-03-07 13:56:06,"5,001s",PASSED
+verifyElementNotPresent,Firefox 58.0,,2018-03-07 13:56:06,2018-03-07 13:56:06,"0,013s",PASSED
+closeBrowser,Firefox 58.0,,2018-03-07 13:56:06,2018-03-07 13:56:06,"0,241s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/23_Testfall,Firefox 58.0,s. Widget in der Marginalspalte\nErgebnis bei Auswahl eines Ortes:\n z.B Berlin => Ergebnisliste: Alle Filialen sind zugeklappt,2018-03-07 13:56:06,2018-03-07 13:56:25,"18,701s",PASSED
+openBrowser,Firefox 58.0,,2018-03-07 13:56:06,2018-03-07 13:56:09,"3,098s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 13:56:09,2018-03-07 13:56:09,"0,032s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 13:56:09,2018-03-07 13:56:09,"0,003s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 13:56:09,2018-03-07 13:56:13,"3,509s",PASSED
+waitForPageLoad,Firefox 58.0,,2018-03-07 13:56:13,2018-03-07 13:56:13,"0,005s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:56:13,2018-03-07 13:56:15,"2,001s",PASSED
+click,Firefox 58.0,,2018-03-07 13:56:15,2018-03-07 13:56:15,"0,303s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:56:15,2018-03-07 13:56:17,"2,001s",PASSED
+mouseOver,Firefox 58.0,,2018-03-07 13:56:17,2018-03-07 13:56:17,"0,154s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:56:17,2018-03-07 13:56:19,"2,000s",PASSED
+click,Firefox 58.0,,2018-03-07 13:56:19,2018-03-07 13:56:20,"0,232s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:56:20,2018-03-07 13:56:25,"5,000s",PASSED
+verifyElementNotPresent,Firefox 58.0,,2018-03-07 13:56:25,2018-03-07 13:56:25,"0,011s",PASSED
+closeBrowser,Firefox 58.0,,2018-03-07 13:56:25,2018-03-07 13:56:25,"0,286s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/24_Testfall,Firefox 58.0,s. Widget im Footer\nErgebnis bei Auswahl eines Ortes:\n z.B Berlin => Ergebnisliste: Alle Filialen sind zugeklappt,2018-03-07 13:56:25,2018-03-07 13:56:41,"16,562s",PASSED
+openBrowser,Firefox 58.0,,2018-03-07 13:56:25,2018-03-07 13:56:28,"2,677s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 13:56:28,2018-03-07 13:56:28,"0,385s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 13:56:28,2018-03-07 13:56:28,"0,003s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 13:56:28,2018-03-07 13:56:29,"1,039s",PASSED
+waitForPageLoad,Firefox 58.0,,2018-03-07 13:56:29,2018-03-07 13:56:29,"0,024s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:56:29,2018-03-07 13:56:31,"2,001s",PASSED
+click,Firefox 58.0,,2018-03-07 13:56:31,2018-03-07 13:56:31,"0,289s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:56:31,2018-03-07 13:56:33,"2,000s",PASSED
+mouseOver,Firefox 58.0,,2018-03-07 13:56:33,2018-03-07 13:56:33,"0,148s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:56:33,2018-03-07 13:56:35,"2,001s",PASSED
+click,Firefox 58.0,,2018-03-07 13:56:35,2018-03-07 13:56:36,"0,624s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:56:36,2018-03-07 13:56:41,"5,001s",PASSED
+verifyElementNotPresent,Firefox 58.0,,2018-03-07 13:56:41,2018-03-07 13:56:41,"0,011s",PASSED
+closeBrowser,Firefox 58.0,,2018-03-07 13:56:41,2018-03-07 13:56:41,"0,295s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/25_Testfall,Firefox 58.0,"\""Ergebnis bei Auswahl eines Ortes:\n z.B Berlin => Karte: \u00DCbersichtsansicht aller Filialen\""",2018-03-07 13:56:41,2018-03-07 13:56:58,"16,757s",PASSED
+openBrowser,Firefox 58.0,,2018-03-07 13:56:42,2018-03-07 13:56:45,"2,977s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 13:56:45,2018-03-07 13:56:45,"0,003s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 13:56:45,2018-03-07 13:56:45,"0,032s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 13:56:45,2018-03-07 13:56:46,"1,034s",PASSED
+waitForPageLoad,Firefox 58.0,,2018-03-07 13:56:46,2018-03-07 13:56:46,"0,020s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:56:46,2018-03-07 13:56:48,"2,000s",PASSED
+click,Firefox 58.0,,2018-03-07 13:56:48,2018-03-07 13:56:48,"0,282s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:56:48,2018-03-07 13:56:50,"2,000s",PASSED
+mouseOver,Firefox 58.0,,2018-03-07 13:56:50,2018-03-07 13:56:50,"0,143s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:56:50,2018-03-07 13:56:52,"2,000s",PASSED
+click,Firefox 58.0,,2018-03-07 13:56:52,2018-03-07 13:56:52,"0,255s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:56:52,2018-03-07 13:56:57,"5,000s",PASSED
+"Statement - wes = com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(filial_map), 5)",Firefox 58.0,,2018-03-07 13:56:57,2018-03-07 13:56:57,"0,029s",PASSED
+"Statement - For ([i = 0, i < wes.size(), (i++)])",Firefox 58.0,,2018-03-07 13:56:57,2018-03-07 13:56:58,"0,676s",PASSED
+closeBrowser,Firefox 58.0,,2018-03-07 13:56:58,2018-03-07 13:56:58,"0,184s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/26_Testfall,Firefox 58.0,"\""s. Widget in der Kontakt-Box\nErgebnis bei Auswahl eines Ortes:\n z.B Berlin => Karte: \u00DCbersichtsansicht aller Filialen\""",2018-03-07 13:56:58,2018-03-07 13:57:15,"16,423s",PASSED
+openBrowser,Firefox 58.0,,2018-03-07 13:56:58,2018-03-07 13:57:01,"2,889s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 13:57:01,2018-03-07 13:57:01,"0,003s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 13:57:01,2018-03-07 13:57:01,"0,024s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 13:57:01,2018-03-07 13:57:02,"0,690s",PASSED
+waitForPageLoad,Firefox 58.0,,2018-03-07 13:57:02,2018-03-07 13:57:02,"0,006s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:57:02,2018-03-07 13:57:04,"2,000s",PASSED
+click,Firefox 58.0,,2018-03-07 13:57:04,2018-03-07 13:57:04,"0,289s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:57:04,2018-03-07 13:57:06,"2,000s",PASSED
+mouseOver,Firefox 58.0,,2018-03-07 13:57:06,2018-03-07 13:57:06,"0,138s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:57:06,2018-03-07 13:57:08,"2,002s",PASSED
+click,Firefox 58.0,,2018-03-07 13:57:08,2018-03-07 13:57:09,"0,253s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:57:09,2018-03-07 13:57:14,"5,000s",PASSED
+"Statement - wes = com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(filial_map), 5)",Firefox 58.0,,2018-03-07 13:57:14,2018-03-07 13:57:14,"0,049s",PASSED
+"Statement - For ([i = 0, i < wes.size(), (i++)])",Firefox 58.0,,2018-03-07 13:57:14,2018-03-07 13:57:14,"0,692s",PASSED
+closeBrowser,Firefox 58.0,,2018-03-07 13:57:14,2018-03-07 13:57:15,"0,295s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/27_Testfall,Firefox 58.0,"\""s. Widget in der Marginalspalte\nErgebnis bei Auswahl eines Ortes:\n z.B Berlin => Karte: \u00DCbersichtsansicht aller Filialen\""",2018-03-07 13:57:15,2018-03-07 13:57:35,"20,860s",PASSED
+openBrowser,Firefox 58.0,,2018-03-07 13:57:15,2018-03-07 13:57:18,"3,267s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 13:57:18,2018-03-07 13:57:18,"0,003s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 13:57:18,2018-03-07 13:57:18,"0,027s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 13:57:18,2018-03-07 13:57:22,"4,070s",PASSED
+waitForPageLoad,Firefox 58.0,,2018-03-07 13:57:22,2018-03-07 13:57:22,"0,007s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:57:22,2018-03-07 13:57:24,"2,001s",PASSED
+click,Firefox 58.0,,2018-03-07 13:57:24,2018-03-07 13:57:24,"0,303s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:57:24,2018-03-07 13:57:26,"2,001s",PASSED
+mouseOver,Firefox 58.0,,2018-03-07 13:57:26,2018-03-07 13:57:27,"0,161s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:57:27,2018-03-07 13:57:29,"2,001s",PASSED
+click,Firefox 58.0,,2018-03-07 13:57:29,2018-03-07 13:57:29,"0,264s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:57:29,2018-03-07 13:57:34,"5,000s",PASSED
+"Statement - wes = com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(filial_map), 5)",Firefox 58.0,,2018-03-07 13:57:34,2018-03-07 13:57:34,"0,040s",PASSED
+"Statement - For ([i = 0, i < wes.size(), (i++)])",Firefox 58.0,,2018-03-07 13:57:34,2018-03-07 13:57:35,"1,361s",PASSED
+closeBrowser,Firefox 58.0,,2018-03-07 13:57:35,2018-03-07 13:57:35,"0,251s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/28_Testfall,Firefox 58.0,s. Widget im Footer\nErgebnis bei Auswahl eines Ortes:\n z.B Berlin => Karte: \u00DCbersichtsansicht aller Filialen,2018-03-07 13:57:35,2018-03-07 13:57:54,"18,185s",PASSED
+openBrowser,Firefox 58.0,,2018-03-07 13:57:36,2018-03-07 13:57:39,"3,145s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 13:57:39,2018-03-07 13:57:39,"0,003s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 13:57:39,2018-03-07 13:57:39,"0,026s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 13:57:39,2018-03-07 13:57:40,"1,292s",PASSED
+waitForPageLoad,Firefox 58.0,,2018-03-07 13:57:40,2018-03-07 13:57:40,"0,030s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:57:40,2018-03-07 13:57:42,"2,001s",PASSED
+click,Firefox 58.0,,2018-03-07 13:57:42,2018-03-07 13:57:42,"0,270s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:57:42,2018-03-07 13:57:44,"2,000s",PASSED
+mouseOver,Firefox 58.0,,2018-03-07 13:57:44,2018-03-07 13:57:44,"0,158s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:57:44,2018-03-07 13:57:46,"2,001s",PASSED
+click,Firefox 58.0,,2018-03-07 13:57:46,2018-03-07 13:57:47,"0,652s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:57:47,2018-03-07 13:57:52,"5,001s",PASSED
+"Statement - wes = com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(filial_map), 5)",Firefox 58.0,,2018-03-07 13:57:52,2018-03-07 13:57:52,"0,033s",PASSED
+"Statement - For ([i = 0, i < wes.size(), (i++)])",Firefox 58.0,,2018-03-07 13:57:52,2018-03-07 13:57:53,"1,254s",PASSED
+closeBrowser,Firefox 58.0,,2018-03-07 13:57:53,2018-03-07 13:57:54,"0,228s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/29_Testfall,Firefox 58.0,Ergebnis bei Auswahl eines Ortes:\n z.B Berlin => Ergebnisliste: Ohne Entfernungsangabe,2018-03-07 13:57:54,2018-03-07 13:58:10,"16,077s",PASSED
+openBrowser,Firefox 58.0,,2018-03-07 13:57:54,2018-03-07 13:57:57,"3,092s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 13:57:57,2018-03-07 13:57:57,"0,030s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 13:57:57,2018-03-07 13:57:57,"0,004s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 13:57:57,2018-03-07 13:57:58,"0,958s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:57:58,2018-03-07 13:58:00,"2,000s",PASSED
+click,Firefox 58.0,,2018-03-07 13:58:00,2018-03-07 13:58:00,"0,265s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:58:00,2018-03-07 13:58:02,"2,000s",PASSED
+mouseOver,Firefox 58.0,,2018-03-07 13:58:02,2018-03-07 13:58:02,"0,154s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:58:02,2018-03-07 13:58:04,"2,001s",PASSED
+click,Firefox 58.0,,2018-03-07 13:58:04,2018-03-07 13:58:04,"0,267s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:58:04,2018-03-07 13:58:09,"5,001s",PASSED
+verifyElementNotPresent,Firefox 58.0,,2018-03-07 13:58:09,2018-03-07 13:58:10,"0,034s",PASSED
+closeBrowser,Firefox 58.0,,2018-03-07 13:58:10,2018-03-07 13:58:10,"0,197s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/30_Testfall,Firefox 58.0,s. Widget in der Kontakt-Box\nErgebnis bei Auswahl eines Ortes:\n z.B Berlin => Ergebnisliste: Ohne Entfernungsangabe,2018-03-07 13:58:10,2018-03-07 13:58:28,"18,648s",PASSED
+openBrowser,Firefox 58.0,,2018-03-07 13:58:10,2018-03-07 13:58:12,"2,696s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 13:58:12,2018-03-07 13:58:13,"0,053s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 13:58:13,2018-03-07 13:58:13,"0,004s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 13:58:13,2018-03-07 13:58:13,"0,942s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:58:13,2018-03-07 13:58:18,"5,002s",PASSED
+click,Firefox 58.0,,2018-03-07 13:58:18,2018-03-07 13:58:19,"0,298s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:58:19,2018-03-07 13:58:21,"2,000s",PASSED
+mouseOver,Firefox 58.0,,2018-03-07 13:58:21,2018-03-07 13:58:21,"0,140s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:58:21,2018-03-07 13:58:23,"2,001s",PASSED
+click,Firefox 58.0,,2018-03-07 13:58:23,2018-03-07 13:58:23,"0,237s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:58:23,2018-03-07 13:58:28,"5,001s",PASSED
+verifyElementNotPresent,Firefox 58.0,,2018-03-07 13:58:28,2018-03-07 13:58:28,"0,025s",PASSED
+closeBrowser,Firefox 58.0,,2018-03-07 13:58:28,2018-03-07 13:58:28,"0,184s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/31_Testfall,Firefox 58.0,"\""s. Widget in der Marginalspalte\nErgebnis bei Auswahl eines Ortes:\n z.B Berlin => Ergebnisliste:  Ohne Entfernungsangabe\""",2018-03-07 13:58:28,2018-03-07 13:58:51,"22,608s",PASSED
+openBrowser,Firefox 58.0,,2018-03-07 13:58:28,2018-03-07 13:58:32,"3,070s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 13:58:32,2018-03-07 13:58:32,"0,042s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 13:58:32,2018-03-07 13:58:32,"0,012s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 13:58:32,2018-03-07 13:58:36,"4,517s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:58:36,2018-03-07 13:58:41,"5,001s",PASSED
+click,Firefox 58.0,,2018-03-07 13:58:41,2018-03-07 13:58:41,"0,303s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:58:41,2018-03-07 13:58:43,"2,001s",PASSED
+mouseOver,Firefox 58.0,,2018-03-07 13:58:43,2018-03-07 13:58:44,"0,139s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:58:44,2018-03-07 13:58:46,"2,001s",PASSED
+click,Firefox 58.0,,2018-03-07 13:58:46,2018-03-07 13:58:46,"0,232s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:58:46,2018-03-07 13:58:51,"5,001s",PASSED
+verifyElementNotPresent,Firefox 58.0,,2018-03-07 13:58:51,2018-03-07 13:58:51,"0,021s",PASSED
+closeBrowser,Firefox 58.0,,2018-03-07 13:58:51,2018-03-07 13:58:51,"0,203s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/32_Testfall,Firefox 58.0,"\""s. Widget im Footer\nErgebnis bei Auswahl eines Ortes:\n z.B Berlin =>  Ohne Entfernungsangabe\""",2018-03-07 13:58:51,2018-03-07 13:59:13,"21,982s",PASSED
+openBrowser,Firefox 58.0,,2018-03-07 13:58:51,2018-03-07 13:58:54,"2,985s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 13:58:54,2018-03-07 13:58:54,"0,029s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 13:58:54,2018-03-07 13:58:54,"0,003s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 13:58:54,2018-03-07 13:58:56,"1,658s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:58:56,2018-03-07 13:59:01,"5,001s",PASSED
+click,Firefox 58.0,,2018-03-07 13:59:01,2018-03-07 13:59:01,"0,280s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:59:01,2018-03-07 13:59:04,"3,000s",PASSED
+mouseOver,Firefox 58.0,,2018-03-07 13:59:04,2018-03-07 13:59:04,"0,158s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:59:04,2018-03-07 13:59:07,"3,000s",PASSED
+click,Firefox 58.0,,2018-03-07 13:59:07,2018-03-07 13:59:08,"0,612s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:59:08,2018-03-07 13:59:13,"5,000s",PASSED
+verifyElementNotPresent,Firefox 58.0,,2018-03-07 13:59:13,2018-03-07 13:59:13,"0,013s",PASSED
+closeBrowser,Firefox 58.0,,2018-03-07 13:59:13,2018-03-07 13:59:13,"0,180s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/33_Testfall,Firefox 58.0,"\""Initial: \nKeine Treffer sind angezeigt (keine Filial-Akk., keine Filial-Icons, keine Entfernung\""",2018-03-07 13:59:13,2018-03-07 13:59:23,"9,535s",PASSED
+openBrowser,Firefox 58.0,,2018-03-07 13:59:13,2018-03-07 13:59:16,"2,913s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 13:59:16,2018-03-07 13:59:16,"0,064s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 13:59:16,2018-03-07 13:59:16,"0,002s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 13:59:16,2018-03-07 13:59:17,"1,213s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:59:17,2018-03-07 13:59:22,"5,001s",PASSED
+Statement - Try,Firefox 58.0,,2018-03-07 13:59:22,2018-03-07 13:59:22,"0,040s",PASSED
+verifyElementNotPresent,Firefox 58.0,,2018-03-07 13:59:22,2018-03-07 13:59:22,"0,009s",PASSED
+closeBrowser,Firefox 58.0,,2018-03-07 13:59:22,2018-03-07 13:59:23,"0,196s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/34_Testfall,Firefox 58.0,Nach Eingabe (z.B Berlin): \nAlle Filialen sind zugeklappt,2018-03-07 13:59:23,2018-03-07 13:59:32,"9,905s",PASSED
+openBrowser,Firefox 58.0,,2018-03-07 13:59:23,2018-03-07 13:59:26,"3,054s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 13:59:26,2018-03-07 13:59:26,"0,051s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 13:59:26,2018-03-07 13:59:26,"0,004s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 13:59:26,2018-03-07 13:59:27,"1,138s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:59:27,2018-03-07 13:59:29,"2,001s",PASSED
+setText,Firefox 58.0,,2018-03-07 13:59:29,2018-03-07 13:59:29,"0,067s",PASSED
+click,Firefox 58.0,,2018-03-07 13:59:29,2018-03-07 13:59:29,"0,262s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:59:29,2018-03-07 13:59:32,"3,000s",PASSED
+verifyElementNotPresent,Firefox 58.0,,2018-03-07 13:59:32,2018-03-07 13:59:32,"0,011s",PASSED
+closeBrowser,Firefox 58.0,,2018-03-07 13:59:32,2018-03-07 13:59:32,"0,254s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/35_Testfall,Firefox 58.0,"Es wird gepr\u00FCft, ob Entfernung in km angezeigt wird",2018-03-07 13:59:32,2018-03-07 13:59:47,"14,279s",PASSED
+openBrowser,Firefox 58.0,,2018-03-07 13:59:32,2018-03-07 13:59:35,"3,020s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 13:59:35,2018-03-07 13:59:36,"0,036s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 13:59:36,2018-03-07 13:59:36,"0,003s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 13:59:36,2018-03-07 13:59:37,"1,658s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:59:37,2018-03-07 13:59:42,"5,001s",PASSED
+setText,Firefox 58.0,,2018-03-07 13:59:42,2018-03-07 13:59:42,"0,066s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:59:42,2018-03-07 13:59:44,"2,000s",PASSED
+submit,Firefox 58.0,,2018-03-07 13:59:44,2018-03-07 13:59:44,"0,072s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:59:44,2018-03-07 13:59:46,"1,982s",PASSED
+verifyElementVisible,Firefox 58.0,,2018-03-07 13:59:46,2018-03-07 13:59:46,"0,068s",PASSED
+closeBrowser,Firefox 58.0,,2018-03-07 13:59:46,2018-03-07 13:59:47,"0,316s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/36_Testfall,Firefox 58.0,Nach Eingabe (z.B Bad Hersfeld): \nAlle Filialen sind zugeklappt,2018-03-07 13:59:47,2018-03-07 13:59:57,"10,144s",PASSED
+openBrowser,Firefox 58.0,,2018-03-07 13:59:47,2018-03-07 13:59:50,"2,889s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 13:59:50,2018-03-07 13:59:50,"0,033s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 13:59:50,2018-03-07 13:59:50,"0,010s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 13:59:50,2018-03-07 13:59:51,"1,507s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:59:51,2018-03-07 13:59:53,"2,000s",PASSED
+setText,Firefox 58.0,,2018-03-07 13:59:53,2018-03-07 13:59:53,"0,077s",PASSED
+click,Firefox 58.0,,2018-03-07 13:59:53,2018-03-07 13:59:54,"0,228s",PASSED
+delay,Firefox 58.0,,2018-03-07 13:59:54,2018-03-07 13:59:57,"3,001s",PASSED
+verifyElementNotPresent,Firefox 58.0,,2018-03-07 13:59:57,2018-03-07 13:59:57,"0,037s",PASSED
+closeBrowser,Firefox 58.0,,2018-03-07 13:59:57,2018-03-07 13:59:57,"0,296s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/37_Testfall,Firefox 58.0,"Es wird gepr\u00FCft, ob Entfernung in km angezeigt wird",2018-03-07 13:59:57,2018-03-07 14:00:10,"13,535s",PASSED
+openBrowser,Firefox 58.0,,2018-03-07 13:59:57,2018-03-07 14:00:00,"3,053s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 14:00:00,2018-03-07 14:00:00,"0,054s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 14:00:00,2018-03-07 14:00:00,"0,000s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 14:00:00,2018-03-07 14:00:01,"0,988s",PASSED
+delay,Firefox 58.0,,2018-03-07 14:00:01,2018-03-07 14:00:06,"5,001s",PASSED
+setText,Firefox 58.0,,2018-03-07 14:00:06,2018-03-07 14:00:06,"0,072s",PASSED
+delay,Firefox 58.0,,2018-03-07 14:00:06,2018-03-07 14:00:08,"2,001s",PASSED
+submit,Firefox 58.0,,2018-03-07 14:00:08,2018-03-07 14:00:08,"0,063s",PASSED
+delay,Firefox 58.0,,2018-03-07 14:00:08,2018-03-07 14:00:10,"1,991s",PASSED
+verifyElementVisible,Firefox 58.0,,2018-03-07 14:00:10,2018-03-07 14:00:10,"0,043s",PASSED
+closeBrowser,Firefox 58.0,,2018-03-07 14:00:10,2018-03-07 14:00:10,"0,185s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/38_Testfall,Firefox 58.0,"Ergebnis, initialer Aufruf:\nSortiert nach\na) Ortsname (1.) und Stra\u00DFenname (2.) ",2018-03-07 14:00:10,2018-03-07 14:00:34,"23,703s",PASSED
+openBrowser,Firefox 58.0,,2018-03-07 14:00:10,2018-03-07 14:00:14,"3,044s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 14:00:14,2018-03-07 14:00:14,"0,001s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 14:00:14,2018-03-07 14:00:14,"0,025s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 14:00:14,2018-03-07 14:00:15,"1,133s",PASSED
+delay,Firefox 58.0,,2018-03-07 14:00:15,2018-03-07 14:00:17,"2,001s",PASSED
+click,Firefox 58.0,,2018-03-07 14:00:17,2018-03-07 14:00:17,"0,286s",PASSED
+delay,Firefox 58.0,,2018-03-07 14:00:17,2018-03-07 14:00:19,"2,001s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 14:00:19,2018-03-07 14:00:20,"0,895s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 14:00:20,2018-03-07 14:00:21,"0,913s",PASSED
+click,Firefox 58.0,,2018-03-07 14:00:21,2018-03-07 14:00:21,"0,253s",PASSED
+delay,Firefox 58.0,,2018-03-07 14:00:21,2018-03-07 14:00:23,"2,001s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 14:00:23,2018-03-07 14:00:24,"0,922s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 14:00:24,2018-03-07 14:00:25,"0,860s",PASSED
+scrollToElement,Firefox 58.0,,2018-03-07 14:00:25,2018-03-07 14:00:25,"0,029s",PASSED
+click,Firefox 58.0,,2018-03-07 14:00:25,2018-03-07 14:00:25,"0,241s",PASSED
+delay,Firefox 58.0,,2018-03-07 14:00:25,2018-03-07 14:00:28,"3,000s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 14:00:28,2018-03-07 14:00:29,"0,909s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 14:00:29,2018-03-07 14:00:30,"0,850s",PASSED
+scrollToElement,Firefox 58.0,,2018-03-07 14:00:30,2018-03-07 14:00:30,"0,023s",PASSED
+click,Firefox 58.0,,2018-03-07 14:00:30,2018-03-07 14:00:30,"0,242s",PASSED
+delay,Firefox 58.0,,2018-03-07 14:00:30,2018-03-07 14:00:32,"2,000s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 14:00:32,2018-03-07 14:00:33,"0,888s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 14:00:33,2018-03-07 14:00:34,"0,840s",PASSED
+closeBrowser,Firefox 58.0,,2018-03-07 14:00:34,2018-03-07 14:00:34,"0,252s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/39_Testfall,Firefox 58.0,"\""Ergebnis bei Auswahl eines Ortes (z.B. Berlin):\nSortiert nach Stra\u00DFenname (1.) und Hausnummer (2.)\""\n\nWichtig: Es werden nur 3 Buchstaben  bei Stra\u00DFenname alphabetisch verglichen!!!",2018-03-07 14:00:34,2018-03-07 14:00:52,"18,174s",ERROR
+openBrowser,Firefox 58.0,,2018-03-07 14:00:34,2018-03-07 14:00:37,"3,126s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 14:00:37,2018-03-07 14:00:37,"0,043s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 14:00:37,2018-03-07 14:00:37,"0,001s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 14:00:37,2018-03-07 14:00:38,"1,070s",PASSED
+delay,Firefox 58.0,,2018-03-07 14:00:38,2018-03-07 14:00:40,"2,001s",PASSED
+click,Firefox 58.0,,2018-03-07 14:00:40,2018-03-07 14:00:41,"0,270s",PASSED
+delay,Firefox 58.0,,2018-03-07 14:00:41,2018-03-07 14:00:43,"2,001s",PASSED
+scrollToElement,Firefox 58.0,,2018-03-07 14:00:43,2018-03-07 14:00:43,"0,034s",PASSED
+delay,Firefox 58.0,,2018-03-07 14:00:43,2018-03-07 14:00:45,"2,000s",PASSED
+mouseOver,Firefox 58.0,,2018-03-07 14:00:45,2018-03-07 14:00:45,"0,158s",PASSED
+delay,Firefox 58.0,,2018-03-07 14:00:45,2018-03-07 14:00:47,"2,001s",PASSED
+click,Firefox 58.0,,2018-03-07 14:00:47,2018-03-07 14:00:47,"0,275s",PASSED
+delay,Firefox 58.0,,2018-03-07 14:00:47,2018-03-07 14:00:52,"5,000s",PASSED
+"Statement - wes = com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(loc_steet_filialsuche), 5)",Firefox 58.0,,2018-03-07 14:00:52,2018-03-07 14:00:52,"0,049s",PASSED
+"Statement - For ([i = 1, i < wes.size(), (i++)])",Firefox 58.0,,2018-03-07 14:00:52,2018-03-07 14:00:52,"0,023s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/40_Testfall,Firefox 58.0,"\""Es wird gepr\u00FCft, ob Dropdown, Akkordeons rchtig funktionieren und Ort/Stra\u00DFe mit Prototyp verglichen\n\""",2018-03-07 14:00:52,2018-03-07 14:01:50,"57,470s",PASSED
+openBrowser,Firefox 58.0,,2018-03-07 14:00:52,2018-03-07 14:00:55,"3,011s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 14:00:55,2018-03-07 14:00:55,"0,000s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 14:00:55,2018-03-07 14:00:55,"0,023s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 14:00:55,2018-03-07 14:00:57,"1,395s",PASSED
+delay,Firefox 58.0,,2018-03-07 14:00:57,2018-03-07 14:00:59,"2,000s",PASSED
+click,Firefox 58.0,,2018-03-07 14:00:59,2018-03-07 14:00:59,"0,273s",PASSED
+delay,Firefox 58.0,,2018-03-07 14:00:59,2018-03-07 14:01:01,"2,001s",PASSED
+mouseOver,Firefox 58.0,,2018-03-07 14:01:01,2018-03-07 14:01:01,"0,157s",PASSED
+click,Firefox 58.0,,2018-03-07 14:01:01,2018-03-07 14:01:01,"0,236s",PASSED
+delay,Firefox 58.0,,2018-03-07 14:01:01,2018-03-07 14:01:03,"2,001s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 14:01:03,2018-03-07 14:01:04,"0,839s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 14:01:04,2018-03-07 14:01:05,"0,767s",PASSED
+verifyTextNotPresent,Firefox 58.0,,2018-03-07 14:01:05,2018-03-07 14:01:06,"0,771s",PASSED
+verifyTextNotPresent,Firefox 58.0,,2018-03-07 14:01:06,2018-03-07 14:01:07,"0,754s",PASSED
+verifyTextNotPresent,Firefox 58.0,,2018-03-07 14:01:07,2018-03-07 14:01:07,"0,774s",PASSED
+verifyTextNotPresent,Firefox 58.0,,2018-03-07 14:01:07,2018-03-07 14:01:08,"0,765s",PASSED
+verifyTextNotPresent,Firefox 58.0,,2018-03-07 14:01:08,2018-03-07 14:01:09,"0,838s",PASSED
+verifyTextNotPresent,Firefox 58.0,,2018-03-07 14:01:09,2018-03-07 14:01:10,"0,760s",PASSED
+delay,Firefox 58.0,,2018-03-07 14:01:10,2018-03-07 14:01:12,"2,001s",PASSED
+click,Firefox 58.0,,2018-03-07 14:01:12,2018-03-07 14:01:12,"0,263s",PASSED
+delay,Firefox 58.0,,2018-03-07 14:01:12,2018-03-07 14:01:14,"2,001s",PASSED
+mouseOver,Firefox 58.0,,2018-03-07 14:01:14,2018-03-07 14:01:14,"0,175s",PASSED
+click,Firefox 58.0,,2018-03-07 14:01:14,2018-03-07 14:01:14,"0,224s",PASSED
+delay,Firefox 58.0,,2018-03-07 14:01:14,2018-03-07 14:01:16,"2,000s",PASSED
+verifyTextNotPresent,Firefox 58.0,,2018-03-07 14:01:16,2018-03-07 14:01:17,"0,824s",PASSED
+verifyTextNotPresent,Firefox 58.0,,2018-03-07 14:01:17,2018-03-07 14:01:18,"0,790s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 14:01:18,2018-03-07 14:01:19,"0,814s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 14:01:19,2018-03-07 14:01:20,"0,791s",PASSED
+verifyTextNotPresent,Firefox 58.0,,2018-03-07 14:01:20,2018-03-07 14:01:20,"0,867s",PASSED
+verifyTextNotPresent,Firefox 58.0,,2018-03-07 14:01:20,2018-03-07 14:01:21,"0,782s",PASSED
+verifyTextNotPresent,Firefox 58.0,,2018-03-07 14:01:21,2018-03-07 14:01:22,"0,788s",PASSED
+verifyTextNotPresent,Firefox 58.0,,2018-03-07 14:01:22,2018-03-07 14:01:23,"0,786s",PASSED
+delay,Firefox 58.0,,2018-03-07 14:01:23,2018-03-07 14:01:25,"2,001s",PASSED
+click,Firefox 58.0,,2018-03-07 14:01:25,2018-03-07 14:01:25,"0,266s",PASSED
+delay,Firefox 58.0,,2018-03-07 14:01:25,2018-03-07 14:01:27,"2,000s",PASSED
+mouseOver,Firefox 58.0,,2018-03-07 14:01:27,2018-03-07 14:01:27,"0,181s",PASSED
+click,Firefox 58.0,,2018-03-07 14:01:27,2018-03-07 14:01:27,"0,212s",PASSED
+delay,Firefox 58.0,,2018-03-07 14:01:27,2018-03-07 14:01:29,"2,001s",PASSED
+verifyTextNotPresent,Firefox 58.0,,2018-03-07 14:01:30,2018-03-07 14:01:30,"0,792s",PASSED
+verifyTextNotPresent,Firefox 58.0,,2018-03-07 14:01:30,2018-03-07 14:01:31,"0,767s",PASSED
+verifyTextNotPresent,Firefox 58.0,,2018-03-07 14:01:31,2018-03-07 14:01:32,"0,780s",PASSED
+verifyTextNotPresent,Firefox 58.0,,2018-03-07 14:01:32,2018-03-07 14:01:33,"0,811s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 14:01:33,2018-03-07 14:01:33,"0,765s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 14:01:33,2018-03-07 14:01:34,"0,754s",PASSED
+verifyTextNotPresent,Firefox 58.0,,2018-03-07 14:01:34,2018-03-07 14:01:35,"0,759s",PASSED
+verifyTextNotPresent,Firefox 58.0,,2018-03-07 14:01:35,2018-03-07 14:01:36,"0,867s",PASSED
+delay,Firefox 58.0,,2018-03-07 14:01:36,2018-03-07 14:01:38,"2,000s",PASSED
+click,Firefox 58.0,,2018-03-07 14:01:38,2018-03-07 14:01:38,"0,268s",PASSED
+delay,Firefox 58.0,,2018-03-07 14:01:38,2018-03-07 14:01:40,"2,002s",PASSED
+mouseOver,Firefox 58.0,,2018-03-07 14:01:40,2018-03-07 14:01:40,"0,243s",PASSED
+click,Firefox 58.0,,2018-03-07 14:01:40,2018-03-07 14:01:41,"0,225s",PASSED
+delay,Firefox 58.0,,2018-03-07 14:01:41,2018-03-07 14:01:43,"2,000s",PASSED
+verifyTextNotPresent,Firefox 58.0,,2018-03-07 14:01:43,2018-03-07 14:01:43,"0,825s",PASSED
+verifyTextNotPresent,Firefox 58.0,,2018-03-07 14:01:43,2018-03-07 14:01:44,"0,827s",PASSED
+verifyTextNotPresent,Firefox 58.0,,2018-03-07 14:01:44,2018-03-07 14:01:45,"0,772s",PASSED
+verifyTextNotPresent,Firefox 58.0,,2018-03-07 14:01:45,2018-03-07 14:01:46,"0,776s",PASSED
+verifyTextNotPresent,Firefox 58.0,,2018-03-07 14:01:46,2018-03-07 14:01:47,"0,951s",PASSED
+verifyTextNotPresent,Firefox 58.0,,2018-03-07 14:01:47,2018-03-07 14:01:48,"0,954s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 14:01:48,2018-03-07 14:01:49,"0,922s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 14:01:49,2018-03-07 14:01:49,"0,899s",PASSED
+closeBrowser,Firefox 58.0,,2018-03-07 14:01:49,2018-03-07 14:01:50,"0,297s",PASSED
+,,,,,,
+Test Cases/Prototyp_Filialsuche (RC 18)/41_TF,Firefox 58.0,,2018-03-07 14:01:50,2018-03-07 14:02:00,"10,296s",FAILED
+openBrowser,Firefox 58.0,,2018-03-07 14:01:50,2018-03-07 14:01:53,"3,162s",PASSED
+deleteAllCookies,Firefox 58.0,,2018-03-07 14:01:53,2018-03-07 14:01:53,"0,001s",PASSED
+maximizeWindow,Firefox 58.0,,2018-03-07 14:01:53,2018-03-07 14:01:53,"0,037s",PASSED
+navigateToUrl,Firefox 58.0,,2018-03-07 14:01:53,2018-03-07 14:01:54,"1,013s",PASSED
+delay,Firefox 58.0,,2018-03-07 14:01:54,2018-03-07 14:01:56,"2,000s",PASSED
+setText,Firefox 58.0,,2018-03-07 14:01:56,2018-03-07 14:01:56,"0,067s",PASSED
+submit,Firefox 58.0,,2018-03-07 14:01:56,2018-03-07 14:01:56,"0,015s",PASSED
+delay,Firefox 58.0,,2018-03-07 14:01:56,2018-03-07 14:01:58,"2,001s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 14:01:58,2018-03-07 14:01:59,"0,851s",PASSED
+verifyTextPresent,Firefox 58.0,,2018-03-07 14:01:59,2018-03-07 14:02:00,"0,794s",PASSED
+acceptAlert,Firefox 58.0,,2018-03-07 14:02:00,2018-03-07 14:02:00,"0,290s",FAILED

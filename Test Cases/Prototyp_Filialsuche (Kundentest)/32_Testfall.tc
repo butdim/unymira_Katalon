@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;s. Widget im Footer
+Ergebnis bei Auswahl eines Ortes:
+ z.B Berlin =>  Ohne Entfernungsangabe&quot;</description>
+   <name>32_Testfall</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6daa74a-97f2-4027-ae98-4bfb1af50580</testCaseGuid>
+</TestCaseEntity>

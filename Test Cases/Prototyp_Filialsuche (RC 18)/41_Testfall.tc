@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Es werden immer nur 2 bestimmte Ergebnisse pro Suche angezeigt.</description>
+   <name>41_Testfall</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f1070e25-156d-4bed-9b64-d19a84945503</testCaseGuid>
+</TestCaseEntity>

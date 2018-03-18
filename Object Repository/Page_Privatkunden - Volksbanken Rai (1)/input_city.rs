@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_city</name>
+   <tag></tag>
+   <elementGuidId>ebd79c58-6fc6-406b-968d-292d90652385</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>city</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Filiale finden</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;filialsuche&quot;)/div[@class=&quot;nav-flyout nav-flyout--dive is-visible&quot;]/div[@class=&quot;dive-nav-flyout&quot;]/div[@class=&quot;dive-nav-flyout__layer dive-nav-flyout__layer--overview is-active&quot;]/div[@class=&quot;dive__row&quot;]/div[@class=&quot;dive__column&quot;]/div[@class=&quot;dive__inner-column&quot;]/form[@class=&quot;form dive-search__form&quot;]/div[@class=&quot;form__base-search&quot;]/fieldset[1]/div[@class=&quot;form__group&quot;]/div[@class=&quot;input__group&quot;]/input[@class=&quot;text-input&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

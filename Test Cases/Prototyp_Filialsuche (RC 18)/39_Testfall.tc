@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;Ergebnis bei Auswahl eines Ortes (z.B. Berlin):
+Sortiert nach Straßenname (1.) und Hausnummer (2.)&quot;
+
+Wichtig: Es werden nur 3 Buchstaben  bei Straßenname alphabetisch verglichen!!!</description>
+   <name>39_Testfall</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1b2838e4-0af6-44c3-af62-7e16d1749c6e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>s. Widget im Footer
+Ergebnis bei Auswahl eines Ortes:
+ z.B Berlin => Karte: Übersichtsansicht aller Filialen</description>
+   <name>28_Testfall</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e02d8d97-200e-4112-b1e4-83118bdcf46d</testCaseGuid>
+</TestCaseEntity>

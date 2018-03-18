@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Alle 100 Filialen (GAA-Icons) sind auf der Karte angezeigt</description>
+   <name>04_Testfall</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b295f034-0987-4864-86b3-861b8b775329</testCaseGuid>
+</TestCaseEntity>

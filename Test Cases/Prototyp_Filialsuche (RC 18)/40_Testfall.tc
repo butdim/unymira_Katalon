@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;Es wird geprüft, ob Dropdown, Akkordeons rchtig funktionieren und Ort/Straße mit Prototyp verglichen
+&quot;</description>
+   <name>40_Testfall</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0761e5ad-10c8-4ede-a99f-21b9f7976641</testCaseGuid>
+</TestCaseEntity>

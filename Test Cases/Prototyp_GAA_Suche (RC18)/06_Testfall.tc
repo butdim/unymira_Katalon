@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>GAA-count=70 (Dropdown: Ergebnis bei Auswahl eines Ortes z.B. Berlin)
+Alle Filialen, bei denen im Feld &quot;City&quot; dieser Ort steht, sind angezeigt (Akk. und Filial-Icons) </description>
+   <name>06_Testfall</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd2f18b7-1ac3-4dc2-9a09-6024a2275e17</testCaseGuid>
+</TestCaseEntity>

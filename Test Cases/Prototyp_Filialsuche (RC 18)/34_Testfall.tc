@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Nach Eingabe (z.B Berlin): 
+Alle Filialen sind zugeklappt</description>
+   <name>34_Testfall</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad81d905-dced-4b1b-ba75-75e5cf735453</testCaseGuid>
+</TestCaseEntity>

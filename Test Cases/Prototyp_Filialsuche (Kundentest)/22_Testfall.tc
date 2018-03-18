@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;s. Widget in der Kontakt-Box
+Ergebnis bei Auswahl eines Ortes:
+ z.B Berlin => Ergebnisliste: Alle Filialen sind zugeklappt&quot;</description>
+   <name>22_Testfall</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1e80efbd-f3c6-4b53-9a95-310b241ebbcc</testCaseGuid>
+</TestCaseEntity>

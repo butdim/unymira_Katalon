@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Nach Eingabe &quot;berlin&quot; sind alle Filialen einer Bank angezeigt
+Filial-count=25
+(Akk. und Filial-Icons)</description>
+   <name>45_Testfall</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c388a523-7bff-4b9d-ab2a-d608edad2de3</testCaseGuid>
+</TestCaseEntity>
